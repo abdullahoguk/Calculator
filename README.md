@@ -1,5 +1,5 @@
 # Calculator
-1. Arithmetic Evaluation Program
+**Arithmetic Evaluation Program**
 In this program, user will able to enter an arithmetic expression and convert that expression to a
 different notation and evaluate it. In the arithmetic expressions only (,),+,-,*, and / symbols and
 numbers are allowed.
